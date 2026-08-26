@@ -1,0 +1,45 @@
+sources:
+  - {source_id: KOCSC_2025_01_TERRESTRIAL, period: "2025-01", category: terrestrial, title: "2025년 1월 지상파방송 심의의결 현황", ntt_id: 20672, local_file: "official/2025_01_terrestrial_ntt20672.pdf"}
+  - {source_id: KOCSC_2025_01_COMPREHENSIVE_NEWS, period: "2025-01", category: comprehensive_news, title: "2025년 1월 종합편성·보도전문채널 심의의결 현황", ntt_id: 20727, local_file: "official/2025_01_comprehensive_news_ntt20727.pdf"}
+  - {source_id: KOCSC_2025_01_SPECIALTY, period: "2025-01", category: specialty, title: "2025년 1월 전문편성채널 심의의결 현황", ntt_id: 20675, local_file: "official/2025_01_specialty_ntt20675.pdf"}
+  - {source_id: KOCSC_2025_01_BROADCAST_AD, period: "2025-01", category: broadcast_ad, title: "2025년 1월 방송광고 심의의결 현황", ntt_id: 20662, local_file: "official/2025_01_broadcast_ad_ntt20662.pdf"}
+  - {source_id: KOCSC_2025_01_PRODUCT_SALES, period: "2025-01", category: product_sales, title: "2025년 1월 상품판매방송 심의의결 현황", ntt_id: 20684, local_file: "official/2025_01_product_sales_ntt20684.pdf"}
+
+  - {source_id: KOCSC_2025_02_TERRESTRIAL, period: "2025-02", category: terrestrial, title: "2025년 2월 지상파방송 심의의결 현황", ntt_id: 20725, local_file: "official/2025_02_terrestrial_ntt20725.pdf"}
+  - {source_id: KOCSC_2025_02_COMPREHENSIVE_NEWS, period: "2025-02", category: comprehensive_news, title: "2025년 2월 종합편성·보도전문채널 심의의결 현황", ntt_id: 20833, local_file: "official/2025_02_comprehensive_news_ntt20833.pdf"}
+  - {source_id: KOCSC_2025_02_SPECIALTY, period: "2025-02", category: specialty, title: "2025년 2월 전문편성채널 심의의결 현황", ntt_id: 20744, local_file: "official/2025_02_specialty_ntt20744.pdf"}
+  - {source_id: KOCSC_2025_02_BROADCAST_AD, period: "2025-02", category: broadcast_ad, title: "2025년 2월 방송광고 심의의결 현황", ntt_id: 20740, local_file: "official/2025_02_broadcast_ad_ntt20740.pdf"}
+  - {source_id: KOCSC_2025_02_PRODUCT_SALES, period: "2025-02", category: product_sales, title: "2025년 2월 상품판매방송 심의의결 현황", ntt_id: 20742, local_file: "official/2025_02_product_sales_ntt20742.pdf"}
+
+  - {source_id: KOCSC_2025_03_TERRESTRIAL, period: "2025-03", category: terrestrial, title: "2025년 3월 지상파방송 심의의결 현황", ntt_id: 20827, local_file: "official/2025_03_terrestrial_ntt20827.pdf"}
+  - {source_id: KOCSC_2025_03_COMPREHENSIVE_NEWS, period: "2025-03", category: comprehensive_news, title: "2025년 3월 종합편성·보도전문채널 심의의결 현황", ntt_id: 20834, local_file: "official/2025_03_comprehensive_news_ntt20834.pdf"}
+  - {source_id: KOCSC_2025_03_SPECIALTY, period: "2025-03", category: specialty, title: "2025년 3월 전문편성채널 심의의결 현황", ntt_id: 20824, local_file: "official/2025_03_specialty_ntt20824.pdf"}
+  - {source_id: KOCSC_2025_03_BROADCAST_AD, period: "2025-03", category: broadcast_ad, title: "2025년 3월 방송광고 심의의결 현황", ntt_id: 20808, local_file: "official/2025_03_broadcast_ad_ntt20808.pdf"}
+  - {source_id: KOCSC_2025_03_PRODUCT_SALES, period: "2025-03", category: product_sales, title: "2025년 3월 상품판매방송 심의의결 현황", ntt_id: 20814, local_file: "official/2025_03_product_sales_ntt20814.pdf"}
+
+  - {source_id: KOCSC_2025_04_TERRESTRIAL, period: "2025-04", category: terrestrial, title: "2025년 4월 지상파방송 심의의결 현황", ntt_id: 20886, local_file: "official/2025_04_terrestrial_ntt20886.pdf"}
+  - {source_id: KOCSC_2025_04_COMPREHENSIVE_NEWS, period: "2025-04", category: comprehensive_news, title: "2025년 4월 종합편성·보도전문채널 심의의결 현황", ntt_id: 21208, local_file: "official/2025_04_comprehensive_news_ntt21208.pdf"}
+  - {source_id: KOCSC_2025_04_SPECIALTY, period: "2025-04", category: specialty, title: "2025년 4월 전문편성채널 심의의결 현황", ntt_id: 21009, local_file: "official/2025_04_specialty_ntt21009.pdf"}
+  - {source_id: KOCSC_2025_04_BROADCAST_AD, period: "2025-04", category: broadcast_ad, title: "2025년 4월 방송광고 심의의결 현황", ntt_id: 20900, local_file: "official/2025_04_broadcast_ad_ntt20900.pdf"}
+  - {source_id: KOCSC_2025_04_PRODUCT_SALES, period: "2025-04", category: product_sales, title: "2025년 4월 상품판매방송 심의의결 현황", ntt_id: 21038, local_file: "official/2025_04_product_sales_ntt21038.pdf"}
+
+  - {source_id: KOCSC_2026_04_TERRESTRIAL, period: "2026-04", category: terrestrial, title: "2026년 4월 지상파방송 심의의결 현황", ntt_id: 21211, local_file: "official/2026_04_terrestrial_ntt21211.pdf"}
+  - {source_id: KOCSC_2026_04_COMPREHENSIVE_NEWS, period: "2026-04", category: comprehensive_news, title: "2026년 4월 종합편성·보도전문채널 심의의결 현황", ntt_id: 21209, local_file: "official/2026_04_comprehensive_news_ntt21209.pdf"}
+  - {source_id: KOCSC_2026_04_SPECIALTY, period: "2026-04", category: specialty, title: "2026년 4월 전문편성채널 심의의결 현황", ntt_id: 21222, local_file: "official/2026_04_specialty_ntt21222.pdf"}
+  - {source_id: KOCSC_2026_04_BROADCAST_AD, period: "2026-04", category: broadcast_ad, title: "2026년 4월 방송광고 심의의결 현황", ntt_id: 21249, local_file: "official/2026_04_broadcast_ad_ntt21249.pdf"}
+  - {source_id: KOCSC_2026_04_PRODUCT_SALES, period: "2026-04", category: product_sales, title: "2026년 4월 상품판매방송 심의의결 현황", ntt_id: 21223, local_file: "official/2026_04_product_sales_ntt21223.pdf"}
+
+  - {source_id: KOCSC_2026_05_TERRESTRIAL, period: "2026-05", category: terrestrial, title: "2026년 5월 지상파방송 심의의결 현황", ntt_id: 21314, local_file: "official/2026_05_terrestrial_ntt21314.pdf"}
+  - {source_id: KOCSC_2026_05_COMPREHENSIVE_NEWS, period: "2026-05", category: comprehensive_news, title: "2026년 5월 종합편성·보도전문채널 심의의결 현황", ntt_id: 21361, local_file: "official/2026_05_comprehensive_news_ntt21361.pdf"}
+  - {source_id: KOCSC_2026_05_SPECIALTY, period: "2026-05", category: specialty, title: "2026년 5월 전문편성채널 심의의결 현황", ntt_id: 21307, local_file: "official/2026_05_specialty_ntt21307.pdf"}
+  - {source_id: KOCSC_2026_05_BROADCAST_AD, period: "2026-05", category: broadcast_ad, title: "2026년 5월 방송광고 심의의결 현황", ntt_id: 21294, local_file: "official/2026_05_broadcast_ad_ntt21294.pdf"}
+  - {source_id: KOCSC_2026_05_PRODUCT_SALES, period: "2026-05", category: product_sales, title: "2026년 5월 상품판매방송 심의의결 현황", ntt_id: 21297, local_file: "official/2026_05_product_sales_ntt21297.pdf"}
+
+  - {source_id: KOCSC_2026_06_TERRESTRIAL, period: "2026-06", category: terrestrial, title: "2026년 6월 지상파방송 심의의결 현황", ntt_id: 21395, local_file: "official/2026_06_terrestrial_ntt21395.pdf"}
+  - {source_id: KOCSC_2026_06_COMPREHENSIVE_NEWS, period: "2026-06", category: comprehensive_news, title: "2026년 6월 종합편성·보도전문채널 심의의결 현황", ntt_id: 21452, local_file: "official/2026_06_comprehensive_news_ntt21452.pdf"}
+  - {source_id: KOCSC_2026_06_SPECIALTY, period: "2026-06", category: specialty, title: "2026년 6월 전문편성채널 심의의결 현황", ntt_id: 21409, local_file: "official/2026_06_specialty_ntt21409.pdf"}
+  - {source_id: KOCSC_2026_06_BROADCAST_AD, period: "2026-06", category: broadcast_ad, title: "2026년 6월 방송광고 심의의결 현황", ntt_id: 21394, local_file: "official/2026_06_broadcast_ad_ntt21394.pdf"}
+  - {source_id: KOCSC_2026_06_PRODUCT_SALES, period: "2026-06", category: product_sales, title: "2026년 6월 상품판매방송 심의의결 현황", ntt_id: 21413, local_file: "official/2026_06_product_sales_ntt21413.pdf"}
+
+  - {source_id: KOCSC_2026_07_TERRESTRIAL, period: "2026-07", category: terrestrial, coverage: partial, title: "2026년 7월 지상파방송 심의의결 현황", ntt_id: 21491, local_file: "official/2026_07_terrestrial_ntt21491.pdf"}
+  - {source_id: KOCSC_2026_07_PRODUCT_SALES, period: "2026-07", category: product_sales, coverage: partial, title: "2026년 7월 상품판매방송 심의의결 현황", ntt_id: 21502, local_file: "official/2026_07_product_sales_ntt21502.pdf"}

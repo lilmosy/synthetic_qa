@@ -1,0 +1,1246 @@
+{
+  "raw_decision_row_count": 324,
+  "rows_with_indexed_gold": 302,
+  "independent_case_count": 205,
+  "duplicate_rows_collapsed": 97,
+  "excluded_count": 22,
+  "excluded_by_reason": {
+    "duplicate_decision_id_in_source": 1,
+    "external_post_broadcast_evidence": 1,
+    "no_indexed_gold_rule": 20
+  },
+  "excluded_decisions": [
+    {
+      "decision_id": "2025-04-0064",
+      "source_id": "KOCSC_2025_02_TERRESTRIAL",
+      "reason": "no_indexed_gold_rule",
+      "detected_rule_documents": []
+    },
+    {
+      "decision_id": "2025-05-0073",
+      "source_id": "KOCSC_2025_02_COMPREHENSIVE_NEWS",
+      "reason": "external_post_broadcast_evidence",
+      "detected_rule_documents": [
+        "방송심의에 관한 규정(규칙 제150호)"
+      ]
+    },
+    {
+      "decision_id": "2025-11-0189",
+      "source_id": "KOCSC_2025_03_TERRESTRIAL",
+      "reason": "no_indexed_gold_rule",
+      "detected_rule_documents": []
+    },
+    {
+      "decision_id": "2025-11-0192",
+      "source_id": "KOCSC_2025_03_COMPREHENSIVE_NEWS",
+      "reason": "no_indexed_gold_rule",
+      "detected_rule_documents": []
+    },
+    {
+      "decision_id": "2025-11-0194",
+      "source_id": "KOCSC_2025_03_SPECIALTY",
+      "reason": "no_indexed_gold_rule",
+      "detected_rule_documents": []
+    },
+    {
+      "decision_id": "2025-09-0139",
+      "source_id": "KOCSC_2025_03_SPECIALTY",
+      "reason": "duplicate_decision_id_in_source"
+    },
+    {
+      "decision_id": "2025-11-0195",
+      "source_id": "KOCSC_2025_03_SPECIALTY",
+      "reason": "no_indexed_gold_rule",
+      "detected_rule_documents": []
+    },
+    {
+      "decision_id": "2025-13-0211",
+      "source_id": "KOCSC_2025_04_TERRESTRIAL",
+      "reason": "no_indexed_gold_rule",
+      "detected_rule_documents": []
+    },
+    {
+      "decision_id": "2025-13-0212",
+      "source_id": "KOCSC_2025_04_TERRESTRIAL",
+      "reason": "no_indexed_gold_rule",
+      "detected_rule_documents": []
+    },
+    {
+      "decision_id": "2025-13-0214",
+      "source_id": "KOCSC_2025_04_TERRESTRIAL",
+      "reason": "no_indexed_gold_rule",
+      "detected_rule_documents": []
+    },
+    {
+      "decision_id": "2025-13-0215",
+      "source_id": "KOCSC_2025_04_TERRESTRIAL",
+      "reason": "no_indexed_gold_rule",
+      "detected_rule_documents": []
+    },
+    {
+      "decision_id": "2025-13-0218",
+      "source_id": "KOCSC_2025_04_TERRESTRIAL",
+      "reason": "no_indexed_gold_rule",
+      "detected_rule_documents": []
+    },
+    {
+      "decision_id": "2025-15-0228",
+      "source_id": "KOCSC_2025_04_TERRESTRIAL",
+      "reason": "no_indexed_gold_rule",
+      "detected_rule_documents": []
+    },
+    {
+      "decision_id": "2025-15-0229",
+      "source_id": "KOCSC_2025_04_TERRESTRIAL",
+      "reason": "no_indexed_gold_rule",
+      "detected_rule_documents": []
+    },
+    {
+      "decision_id": "2025-13-0219",
+      "source_id": "KOCSC_2025_04_COMPREHENSIVE_NEWS",
+      "reason": "no_indexed_gold_rule",
+      "detected_rule_documents": []
+    },
+    {
+      "decision_id": "2025-11-0187",
+      "source_id": "KOCSC_2026_05_TERRESTRIAL",
+      "reason": "no_indexed_gold_rule",
+      "detected_rule_documents": []
+    },
+    {
+      "decision_id": "2025-11-0188",
+      "source_id": "KOCSC_2026_05_TERRESTRIAL",
+      "reason": "no_indexed_gold_rule",
+      "detected_rule_documents": []
+    },
+    {
+      "decision_id": "2026-광고-08-0095",
+      "source_id": "KOCSC_2026_06_BROADCAST_AD",
+      "reason": "no_indexed_gold_rule",
+      "detected_rule_documents": []
+    },
+    {
+      "decision_id": "2026-광고-08-0096",
+      "source_id": "KOCSC_2026_06_BROADCAST_AD",
+      "reason": "no_indexed_gold_rule",
+      "detected_rule_documents": []
+    },
+    {
+      "decision_id": "2026-광고-08-0097",
+      "source_id": "KOCSC_2026_06_BROADCAST_AD",
+      "reason": "no_indexed_gold_rule",
+      "detected_rule_documents": []
+    },
+    {
+      "decision_id": "2026-광고-08-0098",
+      "source_id": "KOCSC_2026_06_BROADCAST_AD",
+      "reason": "no_indexed_gold_rule",
+      "detected_rule_documents": []
+    },
+    {
+      "decision_id": "2026-광고-08-0099",
+      "source_id": "KOCSC_2026_06_BROADCAST_AD",
+      "reason": "no_indexed_gold_rule",
+      "detected_rule_documents": []
+    }
+  ],
+  "citation_fallback_to_parent_count": 2,
+  "manual_annotation_count": 1,
+  "distribution": {
+    "official_result": {
+      "경고": 1,
+      "권고": 123,
+      "문제없음": 1,
+      "의견제시": 45,
+      "주의": 35
+    },
+    "screening_label": {
+      "no_flag": 1,
+      "review_required": 204
+    },
+    "severity": {
+      "administrative_guidance": 168,
+      "none": 1,
+      "statutory_sanction": 36
+    },
+    "domain": {
+      "broadcast_ad": 37,
+      "broadcast_program": 117,
+      "product_sales": 51
+    },
+    "evidence_structure": {
+      "multi_page_unlinked": 21,
+      "single_page": 184
+    },
+    "source_period": {
+      "2025-01": 19,
+      "2025-02": 25,
+      "2025-03": 39,
+      "2025-04": 15,
+      "2026-04": 13,
+      "2026-05": 25,
+      "2026-06": 50,
+      "2026-07": 19
+    },
+    "source_category": {
+      "broadcast_ad": 37,
+      "comprehensive_news": 29,
+      "product_sales": 51,
+      "specialty": 26,
+      "terrestrial": 62
+    }
+  },
+  "source_stats": [
+    {
+      "source_id": "KOCSC_2025_01_BROADCAST_AD",
+      "period": "2025-01",
+      "category": "broadcast_ad",
+      "raw_decision_rows": 28,
+      "included_decision_rows": 28,
+      "independent_cases": 3,
+      "excluded_rows": 0
+    },
+    {
+      "source_id": "KOCSC_2025_01_COMPREHENSIVE_NEWS",
+      "period": "2025-01",
+      "category": "comprehensive_news",
+      "raw_decision_rows": 5,
+      "included_decision_rows": 5,
+      "independent_cases": 1,
+      "excluded_rows": 0
+    },
+    {
+      "source_id": "KOCSC_2025_01_PRODUCT_SALES",
+      "period": "2025-01",
+      "category": "product_sales",
+      "raw_decision_rows": 4,
+      "included_decision_rows": 4,
+      "independent_cases": 4,
+      "excluded_rows": 0
+    },
+    {
+      "source_id": "KOCSC_2025_01_SPECIALTY",
+      "period": "2025-01",
+      "category": "specialty",
+      "raw_decision_rows": 2,
+      "included_decision_rows": 2,
+      "independent_cases": 2,
+      "excluded_rows": 0
+    },
+    {
+      "source_id": "KOCSC_2025_01_TERRESTRIAL",
+      "period": "2025-01",
+      "category": "terrestrial",
+      "raw_decision_rows": 9,
+      "included_decision_rows": 9,
+      "independent_cases": 9,
+      "excluded_rows": 0
+    },
+    {
+      "source_id": "KOCSC_2025_02_BROADCAST_AD",
+      "period": "2025-02",
+      "category": "broadcast_ad",
+      "raw_decision_rows": 12,
+      "included_decision_rows": 12,
+      "independent_cases": 3,
+      "excluded_rows": 0
+    },
+    {
+      "source_id": "KOCSC_2025_02_COMPREHENSIVE_NEWS",
+      "period": "2025-02",
+      "category": "comprehensive_news",
+      "raw_decision_rows": 7,
+      "included_decision_rows": 6,
+      "independent_cases": 6,
+      "excluded_rows": 1
+    },
+    {
+      "source_id": "KOCSC_2025_02_PRODUCT_SALES",
+      "period": "2025-02",
+      "category": "product_sales",
+      "raw_decision_rows": 7,
+      "included_decision_rows": 7,
+      "independent_cases": 7,
+      "excluded_rows": 0
+    },
+    {
+      "source_id": "KOCSC_2025_02_SPECIALTY",
+      "period": "2025-02",
+      "category": "specialty",
+      "raw_decision_rows": 4,
+      "included_decision_rows": 4,
+      "independent_cases": 2,
+      "excluded_rows": 0
+    },
+    {
+      "source_id": "KOCSC_2025_02_TERRESTRIAL",
+      "period": "2025-02",
+      "category": "terrestrial",
+      "raw_decision_rows": 9,
+      "included_decision_rows": 8,
+      "independent_cases": 8,
+      "excluded_rows": 1
+    },
+    {
+      "source_id": "KOCSC_2025_03_BROADCAST_AD",
+      "period": "2025-03",
+      "category": "broadcast_ad",
+      "raw_decision_rows": 8,
+      "included_decision_rows": 8,
+      "independent_cases": 5,
+      "excluded_rows": 0
+    },
+    {
+      "source_id": "KOCSC_2025_03_COMPREHENSIVE_NEWS",
+      "period": "2025-03",
+      "category": "comprehensive_news",
+      "raw_decision_rows": 7,
+      "included_decision_rows": 6,
+      "independent_cases": 6,
+      "excluded_rows": 1
+    },
+    {
+      "source_id": "KOCSC_2025_03_PRODUCT_SALES",
+      "period": "2025-03",
+      "category": "product_sales",
+      "raw_decision_rows": 8,
+      "included_decision_rows": 8,
+      "independent_cases": 8,
+      "excluded_rows": 0
+    },
+    {
+      "source_id": "KOCSC_2025_03_SPECIALTY",
+      "period": "2025-03",
+      "category": "specialty",
+      "raw_decision_rows": 5,
+      "included_decision_rows": 2,
+      "independent_cases": 2,
+      "excluded_rows": 3
+    },
+    {
+      "source_id": "KOCSC_2025_03_TERRESTRIAL",
+      "period": "2025-03",
+      "category": "terrestrial",
+      "raw_decision_rows": 19,
+      "included_decision_rows": 18,
+      "independent_cases": 18,
+      "excluded_rows": 1
+    },
+    {
+      "source_id": "KOCSC_2025_04_BROADCAST_AD",
+      "period": "2025-04",
+      "category": "broadcast_ad",
+      "raw_decision_rows": 10,
+      "included_decision_rows": 10,
+      "independent_cases": 4,
+      "excluded_rows": 0
+    },
+    {
+      "source_id": "KOCSC_2025_04_COMPREHENSIVE_NEWS",
+      "period": "2025-04",
+      "category": "comprehensive_news",
+      "raw_decision_rows": 3,
+      "included_decision_rows": 2,
+      "independent_cases": 2,
+      "excluded_rows": 1
+    },
+    {
+      "source_id": "KOCSC_2025_04_PRODUCT_SALES",
+      "period": "2025-04",
+      "category": "product_sales",
+      "raw_decision_rows": 3,
+      "included_decision_rows": 3,
+      "independent_cases": 3,
+      "excluded_rows": 0
+    },
+    {
+      "source_id": "KOCSC_2025_04_SPECIALTY",
+      "period": "2025-04",
+      "category": "specialty",
+      "raw_decision_rows": 4,
+      "included_decision_rows": 4,
+      "independent_cases": 4,
+      "excluded_rows": 0
+    },
+    {
+      "source_id": "KOCSC_2025_04_TERRESTRIAL",
+      "period": "2025-04",
+      "category": "terrestrial",
+      "raw_decision_rows": 11,
+      "included_decision_rows": 4,
+      "independent_cases": 2,
+      "excluded_rows": 7
+    },
+    {
+      "source_id": "KOCSC_2026_04_BROADCAST_AD",
+      "period": "2026-04",
+      "category": "broadcast_ad",
+      "raw_decision_rows": 18,
+      "included_decision_rows": 18,
+      "independent_cases": 4,
+      "excluded_rows": 0
+    },
+    {
+      "source_id": "KOCSC_2026_04_COMPREHENSIVE_NEWS",
+      "period": "2026-04",
+      "category": "comprehensive_news",
+      "raw_decision_rows": 4,
+      "included_decision_rows": 4,
+      "independent_cases": 4,
+      "excluded_rows": 0
+    },
+    {
+      "source_id": "KOCSC_2026_04_PRODUCT_SALES",
+      "period": "2026-04",
+      "category": "product_sales",
+      "raw_decision_rows": 2,
+      "included_decision_rows": 2,
+      "independent_cases": 2,
+      "excluded_rows": 0
+    },
+    {
+      "source_id": "KOCSC_2026_04_SPECIALTY",
+      "period": "2026-04",
+      "category": "specialty",
+      "raw_decision_rows": 2,
+      "included_decision_rows": 2,
+      "independent_cases": 1,
+      "excluded_rows": 0
+    },
+    {
+      "source_id": "KOCSC_2026_04_TERRESTRIAL",
+      "period": "2026-04",
+      "category": "terrestrial",
+      "raw_decision_rows": 2,
+      "included_decision_rows": 2,
+      "independent_cases": 2,
+      "excluded_rows": 0
+    },
+    {
+      "source_id": "KOCSC_2026_05_BROADCAST_AD",
+      "period": "2026-05",
+      "category": "broadcast_ad",
+      "raw_decision_rows": 26,
+      "included_decision_rows": 26,
+      "independent_cases": 8,
+      "excluded_rows": 0
+    },
+    {
+      "source_id": "KOCSC_2026_05_COMPREHENSIVE_NEWS",
+      "period": "2026-05",
+      "category": "comprehensive_news",
+      "raw_decision_rows": 5,
+      "included_decision_rows": 5,
+      "independent_cases": 5,
+      "excluded_rows": 0
+    },
+    {
+      "source_id": "KOCSC_2026_05_PRODUCT_SALES",
+      "period": "2026-05",
+      "category": "product_sales",
+      "raw_decision_rows": 4,
+      "included_decision_rows": 4,
+      "independent_cases": 4,
+      "excluded_rows": 0
+    },
+    {
+      "source_id": "KOCSC_2026_05_SPECIALTY",
+      "period": "2026-05",
+      "category": "specialty",
+      "raw_decision_rows": 3,
+      "included_decision_rows": 3,
+      "independent_cases": 3,
+      "excluded_rows": 0
+    },
+    {
+      "source_id": "KOCSC_2026_05_TERRESTRIAL",
+      "period": "2026-05",
+      "category": "terrestrial",
+      "raw_decision_rows": 7,
+      "included_decision_rows": 5,
+      "independent_cases": 5,
+      "excluded_rows": 2
+    },
+    {
+      "source_id": "KOCSC_2026_06_BROADCAST_AD",
+      "period": "2026-06",
+      "category": "broadcast_ad",
+      "raw_decision_rows": 26,
+      "included_decision_rows": 21,
+      "independent_cases": 10,
+      "excluded_rows": 5
+    },
+    {
+      "source_id": "KOCSC_2026_06_COMPREHENSIVE_NEWS",
+      "period": "2026-06",
+      "category": "comprehensive_news",
+      "raw_decision_rows": 6,
+      "included_decision_rows": 6,
+      "independent_cases": 6,
+      "excluded_rows": 0
+    },
+    {
+      "source_id": "KOCSC_2026_06_PRODUCT_SALES",
+      "period": "2026-06",
+      "category": "product_sales",
+      "raw_decision_rows": 11,
+      "included_decision_rows": 11,
+      "independent_cases": 11,
+      "excluded_rows": 0
+    },
+    {
+      "source_id": "KOCSC_2026_06_SPECIALTY",
+      "period": "2026-06",
+      "category": "specialty",
+      "raw_decision_rows": 12,
+      "included_decision_rows": 12,
+      "independent_cases": 12,
+      "excluded_rows": 0
+    },
+    {
+      "source_id": "KOCSC_2026_06_TERRESTRIAL",
+      "period": "2026-06",
+      "category": "terrestrial",
+      "raw_decision_rows": 11,
+      "included_decision_rows": 11,
+      "independent_cases": 11,
+      "excluded_rows": 0
+    },
+    {
+      "source_id": "KOCSC_2026_07_PRODUCT_SALES",
+      "period": "2026-07",
+      "category": "product_sales",
+      "raw_decision_rows": 13,
+      "included_decision_rows": 13,
+      "independent_cases": 12,
+      "excluded_rows": 0
+    },
+    {
+      "source_id": "KOCSC_2026_07_TERRESTRIAL",
+      "period": "2026-07",
+      "category": "terrestrial",
+      "raw_decision_rows": 7,
+      "included_decision_rows": 7,
+      "independent_cases": 7,
+      "excluded_rows": 0
+    }
+  ],
+  "multi_page_candidates": [
+    {
+      "qa_id": "QA_063E7F05BE5B63C1795604F2",
+      "decision_ids": [
+        "2026-방송-02-0007",
+        "2026-방송-02-0008"
+      ],
+      "evidence_structure": "multi_page_unlinked",
+      "rule_ids": [
+        "BR_REVIEW_ART35_P2",
+        "BR_REVIEW_ART39_P2",
+        "BR_REVIEW_ART44_P2"
+      ]
+    },
+    {
+      "qa_id": "QA_09C530D17715A96C7F51CF4A",
+      "decision_ids": [
+        "2026-방송-10-0039"
+      ],
+      "evidence_structure": "multi_page_unlinked",
+      "rule_ids": [
+        "BR_REVIEW_ART38_P2",
+        "BR_REVIEW_ART39_P4"
+      ]
+    },
+    {
+      "qa_id": "QA_100893B29DE39754E8EEAFBF",
+      "decision_ids": [
+        "2025-05-0072"
+      ],
+      "evidence_structure": "multi_page_unlinked",
+      "rule_ids": [
+        "BR_REVIEW_ART27_I5",
+        "BR_REVIEW_ART30_P3"
+      ]
+    },
+    {
+      "qa_id": "QA_38D6A8C626016B5D445B3BE1",
+      "decision_ids": [
+        "2025-04-0059"
+      ],
+      "evidence_structure": "multi_page_unlinked",
+      "rule_ids": [
+        "BR_REVIEW_ART24_3_I3",
+        "BR_REVIEW_ART25_P3",
+        "BR_REVIEW_ART55_2"
+      ]
+    },
+    {
+      "qa_id": "QA_3D48D6426C27B8B89DC98A8D",
+      "decision_ids": [
+        "2025-16-0246"
+      ],
+      "evidence_structure": "multi_page_unlinked",
+      "rule_ids": [
+        "BR_REVIEW_ART27_I2",
+        "BR_REVIEW_ART51_P3"
+      ]
+    },
+    {
+      "qa_id": "QA_45C6343F7F642AB64083CB42",
+      "decision_ids": [
+        "2025-06-0084"
+      ],
+      "evidence_structure": "multi_page_unlinked",
+      "rule_ids": [
+        "BR_REVIEW_ART14",
+        "BR_REVIEW_ART20_P1"
+      ]
+    },
+    {
+      "qa_id": "QA_65B86F3340D6ABA62D0D2781",
+      "decision_ids": [
+        "2025-05-0076"
+      ],
+      "evidence_structure": "multi_page_unlinked",
+      "rule_ids": [
+        "BR_REVIEW_ART9_P1",
+        "BR_REVIEW_ART14"
+      ]
+    },
+    {
+      "qa_id": "QA_679FA3EC7F81F727A026372B",
+      "decision_ids": [
+        "2026-08-0014"
+      ],
+      "evidence_structure": "multi_page_unlinked",
+      "rule_ids": [
+        "BR_REVIEW_ART9_P2",
+        "BR_REVIEW_ART9_P4",
+        "BR_REVIEW_ART14"
+      ]
+    },
+    {
+      "qa_id": "QA_9546540E7E9F5C8D1E3EFA28",
+      "decision_ids": [
+        "2025-01-0001"
+      ],
+      "evidence_structure": "multi_page_unlinked",
+      "rule_ids": [
+        "BR_REVIEW_ART28",
+        "BR_REVIEW_ART44_P2"
+      ]
+    },
+    {
+      "qa_id": "QA_989A73DBBEC86D0B24816F99",
+      "decision_ids": [
+        "2026-10-0045"
+      ],
+      "evidence_structure": "multi_page_unlinked",
+      "rule_ids": [
+        "SALES_REVIEW_ART5_P3",
+        "SALES_REVIEW_ART48_P1_I1"
+      ]
+    },
+    {
+      "qa_id": "QA_A56A18DA363FCD1D73F378F1",
+      "decision_ids": [
+        "2025-06-0095",
+        "2025-06-0096",
+        "2025-06-0097",
+        "2025-06-0098",
+        "2025-06-0099",
+        "2025-06-0100",
+        "2025-06-0101",
+        "2025-06-0102",
+        "2025-06-0103",
+        "2025-06-0104"
+      ],
+      "evidence_structure": "multi_page_unlinked",
+      "rule_ids": [
+        "AD_REVIEW_ART7_I3",
+        "AD_REVIEW_ART8_P2",
+        "AD_REVIEW_ART18_P2_I1"
+      ]
+    },
+    {
+      "qa_id": "QA_AA5FFC77696F669C07D06DF5",
+      "decision_ids": [
+        "2026-광고-07-0080",
+        "2026-광고-07-0081",
+        "2026-광고-07-0082",
+        "2026-광고-07-0083",
+        "2026-광고-07-0084"
+      ],
+      "evidence_structure": "multi_page_unlinked",
+      "rule_ids": [
+        "AD_REVIEW_ART18_P2_I1",
+        "AD_REVIEW_ART25_P2_I4"
+      ]
+    },
+    {
+      "qa_id": "QA_BE58ECC42639323A01CA6228",
+      "decision_ids": [
+        "2026-10-0046"
+      ],
+      "evidence_structure": "multi_page_unlinked",
+      "rule_ids": [
+        "SALES_REVIEW_ART5_P3",
+        "SALES_REVIEW_ART48_P1_I1"
+      ]
+    },
+    {
+      "qa_id": "QA_BEAD9DFC78A7582A254334C5",
+      "decision_ids": [
+        "2026-방송-15-0084"
+      ],
+      "evidence_structure": "multi_page_unlinked",
+      "rule_ids": [
+        "BR_REVIEW_ART14",
+        "BR_REVIEW_ART20_P1"
+      ]
+    },
+    {
+      "qa_id": "QA_C4EEB88A455D4E99866C7A9D",
+      "decision_ids": [
+        "2025-11-0178"
+      ],
+      "evidence_structure": "multi_page_unlinked",
+      "rule_ids": [
+        "BR_REVIEW_ART20_P2",
+        "BR_REVIEW_ART29"
+      ]
+    },
+    {
+      "qa_id": "QA_CD5CAFD69347AFECCCB63CC6",
+      "decision_ids": [
+        "2026-방송-05-0018"
+      ],
+      "evidence_structure": "multi_page_unlinked",
+      "rule_ids": [
+        "BR_REVIEW_ART27_I3",
+        "BR_REVIEW_ART27_I5",
+        "BR_REVIEW_ART44_P1"
+      ]
+    },
+    {
+      "qa_id": "QA_D755F3EF6ABBEE4B285C2C17",
+      "decision_ids": [
+        "2025-01-0015"
+      ],
+      "evidence_structure": "multi_page_unlinked",
+      "rule_ids": [
+        "SALES_REVIEW_ART5_P3",
+        "SALES_REVIEW_ART40_P1"
+      ]
+    },
+    {
+      "qa_id": "QA_DC11D7AE1CFCEA25F302C66E",
+      "decision_ids": [
+        "2026-광고-06-0074"
+      ],
+      "evidence_structure": "multi_page_unlinked",
+      "rule_ids": [
+        "SALES_REVIEW_ART32_2_P2",
+        "SALES_REVIEW_ART33_P2"
+      ]
+    },
+    {
+      "qa_id": "QA_E6EAA73FCE907393F1387728",
+      "decision_ids": [
+        "2026-방송-10-0040"
+      ],
+      "evidence_structure": "multi_page_unlinked",
+      "rule_ids": [
+        "BR_REVIEW_ART29",
+        "BR_REVIEW_ART21_P3",
+        "BR_REVIEW_ART28",
+        "BR_REVIEW_ART43_P2"
+      ]
+    },
+    {
+      "qa_id": "QA_ECFABEE1AE096FA6DECD96CE",
+      "decision_ids": [
+        "2025-08-0122"
+      ],
+      "evidence_structure": "multi_page_unlinked",
+      "rule_ids": [
+        "BR_REVIEW_ART27_I1",
+        "BR_REVIEW_ART55_2"
+      ]
+    },
+    {
+      "qa_id": "QA_F8DF5796D9A27AA4068B5ECC",
+      "decision_ids": [
+        "2026-방송-03-0014"
+      ],
+      "evidence_structure": "multi_page_unlinked",
+      "rule_ids": [
+        "BR_REVIEW_ART47_P1_I2",
+        "BR_REVIEW_ART47_P1_I3",
+        "BR_REVIEW_ART47_P2_I2",
+        "BR_REVIEW_ART47_P2_I3",
+        "BR_REVIEW_ART51_P3"
+      ]
+    }
+  ],
+  "build_status": "draft_requires_human_review",
+  "note": "공식 의결 PDF에서 결정적으로 추출한 1차 QA다. artifact와 rationale은 원문 대조 검수 후 최종 gold로 확정해야 하며, 문제없음 수동 seed 1건을 제외하면 관련조항이 명시된 사례만 포함했다.",
+  "source_count": 37,
+  "sources": [
+    {
+      "source_id": "KOCSC_2025_01_TERRESTRIAL",
+      "period": "2025-01",
+      "category": "terrestrial",
+      "coverage": "complete",
+      "title": "2025년 1월 지상파방송 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=20672&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 20672,
+      "local_file": "official/2025_01_terrestrial_ntt20672.pdf",
+      "sha256": "1e9cac62c8f9369883efe1f17a37bb8c20efcadbf8d6ef946cc6abd71ac4e49d",
+      "page_count": 2
+    },
+    {
+      "source_id": "KOCSC_2025_01_COMPREHENSIVE_NEWS",
+      "period": "2025-01",
+      "category": "comprehensive_news",
+      "coverage": "complete",
+      "title": "2025년 1월 종합편성·보도전문채널 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=20727&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 20727,
+      "local_file": "official/2025_01_comprehensive_news_ntt20727.pdf",
+      "sha256": "78e893a86436bd0cc825b555a03fcc27001e9244f43cd2775ba5addb177a20f9",
+      "page_count": 1
+    },
+    {
+      "source_id": "KOCSC_2025_01_SPECIALTY",
+      "period": "2025-01",
+      "category": "specialty",
+      "coverage": "complete",
+      "title": "2025년 1월 전문편성채널 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=20675&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 20675,
+      "local_file": "official/2025_01_specialty_ntt20675.pdf",
+      "sha256": "317e46d45e3b8baf53a2b1147c8e08f7c38762ef5db4c3bf3207fcced0e00ef3",
+      "page_count": 1
+    },
+    {
+      "source_id": "KOCSC_2025_01_BROADCAST_AD",
+      "period": "2025-01",
+      "category": "broadcast_ad",
+      "coverage": "complete",
+      "title": "2025년 1월 방송광고 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=20662&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 20662,
+      "local_file": "official/2025_01_broadcast_ad_ntt20662.pdf",
+      "sha256": "0ac76ef314d51d4568546b1a1df6934065ca619b328b12a050f10361ab9385c3",
+      "page_count": 5
+    },
+    {
+      "source_id": "KOCSC_2025_01_PRODUCT_SALES",
+      "period": "2025-01",
+      "category": "product_sales",
+      "coverage": "complete",
+      "title": "2025년 1월 상품판매방송 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=20684&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 20684,
+      "local_file": "official/2025_01_product_sales_ntt20684.pdf",
+      "sha256": "ea357f9cddaf245f15b3c8fe6a9ed30f68ad724fd46ccd2c98299f6d479acca6",
+      "page_count": 2
+    },
+    {
+      "source_id": "KOCSC_2025_02_TERRESTRIAL",
+      "period": "2025-02",
+      "category": "terrestrial",
+      "coverage": "complete",
+      "title": "2025년 2월 지상파방송 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=20725&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 20725,
+      "local_file": "official/2025_02_terrestrial_ntt20725.pdf",
+      "sha256": "f6b70e7e879777ab1bc33916bd0b044ef281eb2baf13609c8327070be31f4f0c",
+      "page_count": 2
+    },
+    {
+      "source_id": "KOCSC_2025_02_COMPREHENSIVE_NEWS",
+      "period": "2025-02",
+      "category": "comprehensive_news",
+      "coverage": "complete",
+      "title": "2025년 2월 종합편성·보도전문채널 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=20833&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 20833,
+      "local_file": "official/2025_02_comprehensive_news_ntt20833.pdf",
+      "sha256": "7edae052380cd321a86903208916b99d601faa43abcfe91edfd27c4e45192ca9",
+      "page_count": 2
+    },
+    {
+      "source_id": "KOCSC_2025_02_SPECIALTY",
+      "period": "2025-02",
+      "category": "specialty",
+      "coverage": "complete",
+      "title": "2025년 2월 전문편성채널 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=20744&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 20744,
+      "local_file": "official/2025_02_specialty_ntt20744.pdf",
+      "sha256": "33ccd0deeae125f5fd8d9f4dbd213f275088de7f2850ce26d5138ca93e3dbf3b",
+      "page_count": 2
+    },
+    {
+      "source_id": "KOCSC_2025_02_BROADCAST_AD",
+      "period": "2025-02",
+      "category": "broadcast_ad",
+      "coverage": "complete",
+      "title": "2025년 2월 방송광고 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=20740&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 20740,
+      "local_file": "official/2025_02_broadcast_ad_ntt20740.pdf",
+      "sha256": "7cad2cea24c0a7257ee4182a2c9b143000be54d949306583e9d0c35ff93968a0",
+      "page_count": 3
+    },
+    {
+      "source_id": "KOCSC_2025_02_PRODUCT_SALES",
+      "period": "2025-02",
+      "category": "product_sales",
+      "coverage": "complete",
+      "title": "2025년 2월 상품판매방송 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=20742&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 20742,
+      "local_file": "official/2025_02_product_sales_ntt20742.pdf",
+      "sha256": "a3a5eec026664f80f35d3cdcf3a653bfd8a04d93f8461ce6d50e0a93207190e8",
+      "page_count": 4
+    },
+    {
+      "source_id": "KOCSC_2025_03_TERRESTRIAL",
+      "period": "2025-03",
+      "category": "terrestrial",
+      "coverage": "complete",
+      "title": "2025년 3월 지상파방송 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=20827&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 20827,
+      "local_file": "official/2025_03_terrestrial_ntt20827.pdf",
+      "sha256": "b8107a29f5ccf8c357e42c1807b7cc480025668c466a5a8c0ac194e258e66020",
+      "page_count": 3
+    },
+    {
+      "source_id": "KOCSC_2025_03_COMPREHENSIVE_NEWS",
+      "period": "2025-03",
+      "category": "comprehensive_news",
+      "coverage": "complete",
+      "title": "2025년 3월 종합편성·보도전문채널 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=20834&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 20834,
+      "local_file": "official/2025_03_comprehensive_news_ntt20834.pdf",
+      "sha256": "39e0b46f979092201d0d0e14deaa689a5fd2b9dc6c9a5f97186138222c7146bf",
+      "page_count": 2
+    },
+    {
+      "source_id": "KOCSC_2025_03_SPECIALTY",
+      "period": "2025-03",
+      "category": "specialty",
+      "coverage": "complete",
+      "title": "2025년 3월 전문편성채널 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=20824&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 20824,
+      "local_file": "official/2025_03_specialty_ntt20824.pdf",
+      "sha256": "491fdcca196c4981497a2b3cbd61b31f99ab57bfe63417dc87fa637c018952ac",
+      "page_count": 3
+    },
+    {
+      "source_id": "KOCSC_2025_03_BROADCAST_AD",
+      "period": "2025-03",
+      "category": "broadcast_ad",
+      "coverage": "complete",
+      "title": "2025년 3월 방송광고 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=20808&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 20808,
+      "local_file": "official/2025_03_broadcast_ad_ntt20808.pdf",
+      "sha256": "eeef7016108944c858b866bd38672c77edefec408df608b38e2a1b32a5b7ce70",
+      "page_count": 2
+    },
+    {
+      "source_id": "KOCSC_2025_03_PRODUCT_SALES",
+      "period": "2025-03",
+      "category": "product_sales",
+      "coverage": "complete",
+      "title": "2025년 3월 상품판매방송 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=20814&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 20814,
+      "local_file": "official/2025_03_product_sales_ntt20814.pdf",
+      "sha256": "85dcd9a9bef98326a9078cb4f93053b8babfa14a286f18f1c983d4a68ebf3523",
+      "page_count": 5
+    },
+    {
+      "source_id": "KOCSC_2025_04_TERRESTRIAL",
+      "period": "2025-04",
+      "category": "terrestrial",
+      "coverage": "complete",
+      "title": "2025년 4월 지상파방송 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=20886&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 20886,
+      "local_file": "official/2025_04_terrestrial_ntt20886.pdf",
+      "sha256": "348c45b109f3915b02f78b1f2ba657be4dee7b60c1f3ac31730a2d303be2cf39",
+      "page_count": 3
+    },
+    {
+      "source_id": "KOCSC_2025_04_COMPREHENSIVE_NEWS",
+      "period": "2025-04",
+      "category": "comprehensive_news",
+      "coverage": "complete",
+      "title": "2025년 4월 종합편성·보도전문채널 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=21208&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 21208,
+      "local_file": "official/2025_04_comprehensive_news_ntt21208.pdf",
+      "sha256": "48814f81f00bbfcd4ee271d08b4a4680989b9b014cb98bb8d3d7e5ac053b8b93",
+      "page_count": 1
+    },
+    {
+      "source_id": "KOCSC_2025_04_SPECIALTY",
+      "period": "2025-04",
+      "category": "specialty",
+      "coverage": "complete",
+      "title": "2025년 4월 전문편성채널 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=21009&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 21009,
+      "local_file": "official/2025_04_specialty_ntt21009.pdf",
+      "sha256": "9c798c60f8a45890efebeb9fe0f2f989de5d6b14ce76e072127d5d03002fa660",
+      "page_count": 2
+    },
+    {
+      "source_id": "KOCSC_2025_04_BROADCAST_AD",
+      "period": "2025-04",
+      "category": "broadcast_ad",
+      "coverage": "complete",
+      "title": "2025년 4월 방송광고 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=20900&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 20900,
+      "local_file": "official/2025_04_broadcast_ad_ntt20900.pdf",
+      "sha256": "ff0f87f639fedd3e6dbd3e1ea674cb67d8ceeabdd531336159111f98c21248a1",
+      "page_count": 2
+    },
+    {
+      "source_id": "KOCSC_2025_04_PRODUCT_SALES",
+      "period": "2025-04",
+      "category": "product_sales",
+      "coverage": "complete",
+      "title": "2025년 4월 상품판매방송 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=21038&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 21038,
+      "local_file": "official/2025_04_product_sales_ntt21038.pdf",
+      "sha256": "280d3e8b36fa60cb338a5f97c4116215c08dbe2ab4f1a28fdf96ecb4083c6b4e",
+      "page_count": 2
+    },
+    {
+      "source_id": "KOCSC_2026_04_TERRESTRIAL",
+      "period": "2026-04",
+      "category": "terrestrial",
+      "coverage": "complete",
+      "title": "2026년 4월 지상파방송 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=21211&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 21211,
+      "local_file": "official/2026_04_terrestrial_ntt21211.pdf",
+      "sha256": "6f5af8bccef5b7b12b16c985c1488dcd33da8f5b3ff3b483e6c44dbb473cec6c",
+      "page_count": 1
+    },
+    {
+      "source_id": "KOCSC_2026_04_COMPREHENSIVE_NEWS",
+      "period": "2026-04",
+      "category": "comprehensive_news",
+      "coverage": "complete",
+      "title": "2026년 4월 종합편성·보도전문채널 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=21209&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 21209,
+      "local_file": "official/2026_04_comprehensive_news_ntt21209.pdf",
+      "sha256": "650055dd83a0bb0c39a9302b16e185cce743b1e65e6602402184d050b4c464dc",
+      "page_count": 2
+    },
+    {
+      "source_id": "KOCSC_2026_04_SPECIALTY",
+      "period": "2026-04",
+      "category": "specialty",
+      "coverage": "complete",
+      "title": "2026년 4월 전문편성채널 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=21222&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 21222,
+      "local_file": "official/2026_04_specialty_ntt21222.pdf",
+      "sha256": "99c5de6cf5090da4ae9cb3abfb5f34c23bc763a2ed368fc17b1bb759a97b804e",
+      "page_count": 1
+    },
+    {
+      "source_id": "KOCSC_2026_04_BROADCAST_AD",
+      "period": "2026-04",
+      "category": "broadcast_ad",
+      "coverage": "complete",
+      "title": "2026년 4월 방송광고 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=21249&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 21249,
+      "local_file": "official/2026_04_broadcast_ad_ntt21249.pdf",
+      "sha256": "69d74a0106c8c6c2c6665e60adb7265468a43105b0c06bd94a2df01c3eaa2638",
+      "page_count": 4
+    },
+    {
+      "source_id": "KOCSC_2026_04_PRODUCT_SALES",
+      "period": "2026-04",
+      "category": "product_sales",
+      "coverage": "complete",
+      "title": "2026년 4월 상품판매방송 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=21223&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 21223,
+      "local_file": "official/2026_04_product_sales_ntt21223.pdf",
+      "sha256": "a63fe0e7139e8b33fbab629a9bfcfad2df26c5baf67ac908aabfbd878b8fe209",
+      "page_count": 2
+    },
+    {
+      "source_id": "KOCSC_2026_05_TERRESTRIAL",
+      "period": "2026-05",
+      "category": "terrestrial",
+      "coverage": "complete",
+      "title": "2026년 5월 지상파방송 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=21314&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 21314,
+      "local_file": "official/2026_05_terrestrial_ntt21314.pdf",
+      "sha256": "d0d871f07beec311b56132ea53af1820d665ca15acccde7164033a539e1a0a61",
+      "page_count": 2
+    },
+    {
+      "source_id": "KOCSC_2026_05_COMPREHENSIVE_NEWS",
+      "period": "2026-05",
+      "category": "comprehensive_news",
+      "coverage": "complete",
+      "title": "2026년 5월 종합편성·보도전문채널 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=21361&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 21361,
+      "local_file": "official/2026_05_comprehensive_news_ntt21361.pdf",
+      "sha256": "b2e0a3558b2c1c0227e9d36879da487529d4bf7bf6b81cd3e60f9cc948373432",
+      "page_count": 2
+    },
+    {
+      "source_id": "KOCSC_2026_05_SPECIALTY",
+      "period": "2026-05",
+      "category": "specialty",
+      "coverage": "complete",
+      "title": "2026년 5월 전문편성채널 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=21307&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 21307,
+      "local_file": "official/2026_05_specialty_ntt21307.pdf",
+      "sha256": "bcd059999146665c458b1077adbde964d099546c67857e4b79cad8a073c25e3b",
+      "page_count": 1
+    },
+    {
+      "source_id": "KOCSC_2026_05_BROADCAST_AD",
+      "period": "2026-05",
+      "category": "broadcast_ad",
+      "coverage": "complete",
+      "title": "2026년 5월 방송광고 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=21294&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 21294,
+      "local_file": "official/2026_05_broadcast_ad_ntt21294.pdf",
+      "sha256": "71d9e2cf2cfa95918e9433b544acfc81d7a970563149e3950e63b07edeb27ec3",
+      "page_count": 10
+    },
+    {
+      "source_id": "KOCSC_2026_05_PRODUCT_SALES",
+      "period": "2026-05",
+      "category": "product_sales",
+      "coverage": "complete",
+      "title": "2026년 5월 상품판매방송 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=21297&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 21297,
+      "local_file": "official/2026_05_product_sales_ntt21297.pdf",
+      "sha256": "e9fa5ca38a58243ba6d3eab6fbca6631c17012cbc32f93e5410cc5edd1562355",
+      "page_count": 2
+    },
+    {
+      "source_id": "KOCSC_2026_06_TERRESTRIAL",
+      "period": "2026-06",
+      "category": "terrestrial",
+      "coverage": "complete",
+      "title": "2026년 6월 지상파방송 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=21395&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 21395,
+      "local_file": "official/2026_06_terrestrial_ntt21395.pdf",
+      "sha256": "3707cd54a236c6708de1308a14953fcf7990cb2c4126c04eb46cbac0defb7231",
+      "page_count": 3
+    },
+    {
+      "source_id": "KOCSC_2026_06_COMPREHENSIVE_NEWS",
+      "period": "2026-06",
+      "category": "comprehensive_news",
+      "coverage": "complete",
+      "title": "2026년 6월 종합편성·보도전문채널 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=21452&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 21452,
+      "local_file": "official/2026_06_comprehensive_news_ntt21452.pdf",
+      "sha256": "14d92dfcfb37ae5a0d6fa1b6e3df5e05848e4a70120e5b52705c1d466d612c24",
+      "page_count": 3
+    },
+    {
+      "source_id": "KOCSC_2026_06_SPECIALTY",
+      "period": "2026-06",
+      "category": "specialty",
+      "coverage": "complete",
+      "title": "2026년 6월 전문편성채널 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=21409&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 21409,
+      "local_file": "official/2026_06_specialty_ntt21409.pdf",
+      "sha256": "d1003041f8914fc2416759102f96d7133e1f942b1318aca2d9147d1b4b42bc03",
+      "page_count": 4
+    },
+    {
+      "source_id": "KOCSC_2026_06_BROADCAST_AD",
+      "period": "2026-06",
+      "category": "broadcast_ad",
+      "coverage": "complete",
+      "title": "2026년 6월 방송광고 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=21394&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 21394,
+      "local_file": "official/2026_06_broadcast_ad_ntt21394.pdf",
+      "sha256": "b05ed75879601720a271f2e25c5f20447d79ce6143a3058e6d3106329888cb39",
+      "page_count": 7
+    },
+    {
+      "source_id": "KOCSC_2026_06_PRODUCT_SALES",
+      "period": "2026-06",
+      "category": "product_sales",
+      "coverage": "complete",
+      "title": "2026년 6월 상품판매방송 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=21413&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 21413,
+      "local_file": "official/2026_06_product_sales_ntt21413.pdf",
+      "sha256": "995530909e70ae1abd92789f221de3b60e53d6abacedc017fd9d520cf000c45e",
+      "page_count": 9
+    },
+    {
+      "source_id": "KOCSC_2026_07_TERRESTRIAL",
+      "period": "2026-07",
+      "category": "terrestrial",
+      "coverage": "partial",
+      "title": "2026년 7월 지상파방송 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=21491&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 21491,
+      "local_file": "official/2026_07_terrestrial_ntt21491.pdf",
+      "sha256": "605c249ac4338e93bafb8e93ea95743208ae69b1294aac8fdf35261e80e51123",
+      "page_count": 3
+    },
+    {
+      "source_id": "KOCSC_2026_07_PRODUCT_SALES",
+      "period": "2026-07",
+      "category": "product_sales",
+      "coverage": "partial",
+      "title": "2026년 7월 상품판매방송 심의의결 현황",
+      "board_url": "https://www.kocsc.or.kr/main/cop/bbs/selectBoardArticle.do?bbsId=info_Opinion_main&nttId=21502&menuNo=040000&subMenuNo=040700",
+      "ntt_id": 21502,
+      "local_file": "official/2026_07_product_sales_ntt21502.pdf",
+      "sha256": "fa8457487cac34dc919e990526c76dbaa39f3d19f4fe1b21f4494733cf933b48",
+      "page_count": 5
+    }
+  ],
+  "validation": {
+    "qa_count": 205,
+    "source_count": 37,
+    "invalid_rule_ids": [],
+    "invalid_source_ids": [],
+    "empty_artifacts": [],
+    "empty_rationales": [],
+    "duplicate_qa_ids": false,
+    "invalid_labels": [],
+    "artifact_leakage_flags": [],
+    "ok": true
+  }
+}

@@ -1,0 +1,10 @@
+qa:
+  question: "다음 제작물을 방송 전에 검토하라. 검토 필요 여부, 관련 규정과 판단 근거를 제시하라."
+  positive_outcomes:
+    - 의견제시
+    - 권고
+    - 주의
+    - 경고
+    - 과징금
+  negative_outcomes:
+    - 문제없음
